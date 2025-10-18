@@ -43,6 +43,9 @@ nav a:hover {
   color: rgb(136 14 79);
 }
 
+.pink-symbol {
+        color: rgb(194 24 91);
+    }
 main {
   max-width: 1000px;
   margin: auto;
