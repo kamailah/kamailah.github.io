@@ -1,3 +1,12 @@
-/* Author: Kamailah Quiocho
+<!-- 
+  Author: Kamailah Quiocho
   File Name: styles.css
-  Date: 10/19/2025 */
+  Date: 10/19/2025 
+-->
+header h1 { 
+  font-size: 3em;
+  font-family: Georgia, Times, serif;
+  padding: 3%;
+  color: #FFB6C1;
+  text-align: center; 
+}
