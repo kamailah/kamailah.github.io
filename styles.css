@@ -85,3 +85,15 @@ footer {
   font-size: 0.9rem;
 }
 
+@media screen and (min-width: 481px) {
+    .columns {
+        width: 50%;
+        float: left;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .columns {
+        width: 25%;
+    }
+}
