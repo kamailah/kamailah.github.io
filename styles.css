@@ -108,3 +108,9 @@ footer {
   clear: both;
 }
 
+.caption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 10px;
+  color: rgb(136, 14, 79);
+}
